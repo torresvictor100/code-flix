@@ -1,4 +1,4 @@
-import { InvalidUuidError , Uuid } from "../uuid.co"
+import { InvalidUuidError , Uuid } from "../uuid.vo"
 import { validate as uuidValidate } from 'uuid';
 
 
